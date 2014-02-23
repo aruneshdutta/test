@@ -1,0 +1,689 @@
+;
+; Album     22/02/2014 19:39:00
+; Copyright (C) 2009 Avanquest Software. All Rights Reserved.
+; Pages: 3 
+;
+begin
+	IxlaPhotoAlbum == 0
+	push_object IxlaPhotoAlbum
+	def ,`build_as`,`cssht`,yes,
+	def ,`col`,0,yes,
+	def ,`cur_page`,1,yes,
+	def ,`exterior`,`0 0`,no,
+	def ,`htm_dir_img`,`images`,yes,
+	def ,`htm_dir_lnk`,`linked`,yes,
+	def ,`htm_footer`,`center`,yes,
+	def ,`htm_name`,`Business_News`,yes,
+	def ,`htm_path`,`E:\web_easy\personal\proj2\mobile_website\`,yes,
+	def ,`htm_txc_alink`,`#ff0000`,yes,
+	def ,`htm_txc_nlink`,`#000000`,yes,
+	def ,`htm_txc_vlink`,`#4d4d4d`,yes,
+	def ,`htm_viewport`,`width=320;initial-scale=1.0,user-scalable=yes`,yes,
+	def ,`html_suffix`,`.HTM`,yes,
+	def ,`img_type`,`.JPG`,yes,
+	def ,`main_name`,`index.html`,yes,
+	def ,`page bgc`,`white`,yes,
+	PG151331840 == 0
+	push_object PG151331840
+	OBJ151331840 == 0
+	push_object OBJ151331840
+	def ,`POINT00001`,0,17,
+	def ,`POINT00002`,319,419,
+	def ,`styleclass`,CS1513318448,yes,
+	def ,`subtype`,`html`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10000`,`G_TEXT`,OBJ151331840,
+	OBJ151331841 == 0
+	push_object OBJ151331841
+	def ,`POINT00001`,0,0,
+	def ,`POINT00002`,319,71,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1513318414,yes,
+	def ,`subtype`,`html`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ151331841,
+	OBJ151331842 == 0
+	push_object OBJ151331842
+	def ,`POINT00001`,0,71,
+	def ,`POINT00002`,319,100,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1513318451,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10002`,`G_TEXT`,OBJ151331842,
+	OBJ151331843 == 0
+	push_object OBJ151331843
+	def ,`POINT00001`,4,7,
+	def ,`POINT00002`,313,49,
+	def ,`name`,`Safe Raipur`,yes,
+	def ,`styleclass`,CS1513318420,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10003`,`G_TEXT`,OBJ151331843,
+	OBJ151331844 == 0
+	push_object OBJ151331844
+	def ,`POINT00001`,17,166,
+	def ,`POINT00002`,157,199,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,#@AboutUs#,yes,
+	def ,`styleclass`,CS1513318437,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ151331844,
+	OBJ151331846 == 0
+	push_object OBJ151331846
+	def ,`POINT00001`,17,224,
+	def ,`POINT00002`,251,288,
+	def ,`link`,`url https://www.facebook.com/SafeCityRaipur`,yes,
+	def ,`name`,`Visit Safe Raipur`,yes,
+	def ,`styleclass`,CS1513318437,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10005`,`G_TEXT`,OBJ151331846,
+	OBJ151331847 == 0
+	push_object OBJ151331847
+	def ,`POINT00001`,17,283,
+	def ,`POINT00002`,215,316,
+	def ,`link`,`page 3`,yes,
+	def ,`name`,`Contact Us`,yes,
+	def ,`styleclass`,CS1513318437,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10006`,`G_TEXT`,OBJ151331847,
+	OBJ151331848 == 0
+	push_object OBJ151331848
+	def ,`POINT00001`,19,214,
+	def ,`POINT00002`,300,214,
+	def ,`styleclass`,CS1513318411,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10007`,`G_LINE`,OBJ151331848,
+	OBJ1513318410 == 0
+	push_object OBJ1513318410
+	def ,`POINT00001`,19,274,
+	def ,`POINT00002`,300,274,
+	def ,`fgc`,`#7e7e7e`,yes,
+	def ,`styleclass`,CS1513318411,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10008`,`G_LINE`,OBJ1513318410,
+	IMG151333360 == 0
+	push_object IMG151333360
+	def ,`POINT00001`,-1,103,
+	def ,`POINT00002`,73,158,
+	def ,`name`,`E:\web_easy\personal\proj2\mobile_website\logo1.png`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10009`,`G_IMAGE`,IMG151333360,
+	def ,`styleclass`,CS1513318447,yes,
+	def ,`thumb`,32,yes,
+	def ,`title`,#@Home#,yes,
+	pop_current_object
+	def ,`page001`,PG151331840,yes,
+	PG151331841 == 0
+	push_object PG151331841
+	OBJ1513318411 == 0
+	push_object OBJ1513318411
+	def ,`POINT00001`,0,1,
+	def ,`POINT00002`,319,420,
+	def ,`styleclass`,CS1513318448,yes,
+	def ,`subtype`,`html`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10000`,`G_TEXT`,OBJ1513318411,
+	OBJ1513318412 == 0
+	push_object OBJ1513318412
+	def ,`POINT00001`,0,0,
+	def ,`POINT00002`,319,71,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1513318414,yes,
+	def ,`subtype`,`html`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ1513318412,
+	OBJ1513318413 == 0
+	push_object OBJ1513318413
+	def ,`POINT00001`,0,71,
+	def ,`POINT00002`,319,100,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1513318451,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10002`,`G_TEXT`,OBJ1513318413,
+	OBJ1513318414 == 0
+	push_object OBJ1513318414
+	def ,`POINT00001`,4,7,
+	def ,`POINT00002`,313,52,
+	def ,`name`,`Safe Raipur`,yes,
+	def ,`styleclass`,CS1513318420,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10003`,`G_TEXT`,OBJ1513318414,
+	OBJ1513318415 == 0
+	push_object OBJ1513318415
+	def ,`POINT00001`,17,163,
+	def ,`POINT00002`,157,196,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,#@AboutUs#,yes,
+	def ,`styleclass`,CS1513318437,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ1513318415,
+	OBJ1513318416 == 0
+	push_object OBJ1513318416
+	def ,`POINT00001`,19,204,
+	def ,`POINT00002`,300,204,
+	def ,`styleclass`,CS1513318411,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10005`,`G_LINE`,OBJ1513318416,
+	OBJ1513318417 == 0
+	push_object OBJ1513318417
+	def ,`POINT00001`,161,166,
+	def ,`POINT00002`,301,193,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1513318425,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10006`,`G_TEXT`,OBJ1513318417,
+	OBJ1513318418 == 0
+	push_object OBJ1513318418
+	def ,`POINT00001`,15,212,
+	def ,`POINT00002`,297,405,
+	def ,`name`,`Safe Raipur Campaign is an initiative of Chhattisgarh InfoSec Society. This will enhance information flow for effective supervision - GP Singh, IG Raipur.
+
+OBJECTIVE : This is a philanthropic initiative of Chhattisgarh InfoSec Society.It is desirable that this facebook page is used as a platform to share actionable information and also information that warrants emergency intervention by Police.This will enable you to participate in creating safe and secure environment for your Raipur city.However, it should not be misunderstood as a portal for registering complaints.`,yes,
+	def ,`styleclass`,CS1513318428,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10007`,`G_TEXT`,OBJ1513318418,
+	GIM191755 == 0
+	push_object GIM191755
+	def ,`POINT00001`,-1,103,
+	def ,`POINT00002`,73,158,
+	def ,`bgc`,`gray`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`E:\web_easy\personal\proj2\mobile_website\logo1.png`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,GIM191755,
+	def ,`styleclass`,CS1513318447,yes,
+	def ,`thumb`,25,yes,
+	def ,`title`,#@AboutUs#,yes,
+	pop_current_object
+	def ,`page002`,PG151331841,yes,
+	PG151331844 == 0
+	push_object PG151331844
+	OBJ1513318440 == 0
+	push_object OBJ1513318440
+	def ,`POINT00001`,0,-1,
+	def ,`POINT00002`,319,418,
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Arial#12#Normal#0#0#0`,yes,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1513318448,yes,
+	def ,`subtype`,`html`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10000`,`G_TEXT`,OBJ1513318440,
+	OBJ1513318441 == 0
+	push_object OBJ1513318441
+	def ,`POINT00001`,0,0,
+	def ,`POINT00002`,319,71,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1513318414,yes,
+	def ,`subtype`,`html`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ1513318441,
+	OBJ1513318442 == 0
+	push_object OBJ1513318442
+	def ,`POINT00001`,0,71,
+	def ,`POINT00002`,319,100,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1513318451,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10002`,`G_TEXT`,OBJ1513318442,
+	OBJ1513318443 == 0
+	push_object OBJ1513318443
+	def ,`POINT00001`,4,7,
+	def ,`POINT00002`,313,52,
+	def ,`name`,`Safe Raipur`,yes,
+	def ,`styleclass`,CS1513318420,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10003`,`G_TEXT`,OBJ1513318443,
+	OBJ1513318444 == 0
+	push_object OBJ1513318444
+	def ,`POINT00001`,17,168,
+	def ,`POINT00002`,157,201,
+	def ,`link`,`page 3`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1513318437,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ1513318444,
+	OBJ1513318445 == 0
+	push_object OBJ1513318445
+	def ,`POINT00001`,19,208,
+	def ,`POINT00002`,300,208,
+	def ,`styleclass`,CS1513318411,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10005`,`G_LINE`,OBJ1513318445,
+	OBJ1513318446 == 0
+	push_object OBJ1513318446
+	def ,`POINT00001`,161,171,
+	def ,`POINT00002`,301,198,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1513318425,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10006`,`G_TEXT`,OBJ1513318446,
+	GTX151598360 == 0
+	push_object GTX151598360
+	def ,`POINT00001`,14,249,
+	def ,`POINT00002`,300,289,
+	def ,`fgc`,`deep_red`,yes,
+	def ,`font`,`Times New Roman#12#Bold#0#0#0`,yes,
+	def ,`name`,`Send Your Feedback and suggestions to -  `,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10007`,`G_TEXT`,GTX151598360,
+	GTX151599490 == 0
+	push_object GTX151599490
+	def ,`POINT00001`,15,274,
+	def ,`POINT00002`,209,303,
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Times New Roman#12#Bold#0#0#0`,yes,
+	def ,`link`,`email saferaipur@gmail.com`,yes,
+	def ,`name`,`saferaipur@gmail.com`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10008`,`G_TEXT`,GTX151599490,
+	GIM193144 == 0
+	push_object GIM193144
+	def ,`POINT00001`,-1,103,
+	def ,`POINT00002`,73,158,
+	def ,`bgc`,`gray`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`E:\web_easy\personal\proj2\mobile_website\logo1.png`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10009`,`G_IMAGE`,GIM193144,
+	def ,`styleclass`,CS1513318447,yes,
+	def ,`thumb`,29,yes,
+	def ,`title`,#@ContactUs#,yes,
+	pop_current_object
+	def ,`page005`,PG151331844,yes,
+	def ,`page_depth`,420,yes,
+	def ,`page_width`,320,yes,
+	def ,`row`,0,yes,
+	def ,`scale_unit`,`pixel`,yes,
+	SCS151331840 == 0
+	push_object SCS151331840
+	CS151331840 == 0
+	push_object CS151331840
+	def ,`css`,`text-decoration :underline;`,yes,
+	pop_current_object
+	def ,`<A:hover>`,CS151331840,yes,
+	CS151331841 == 0
+	push_object CS151331841
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`<A:link>`,CS151331841,yes,
+	CS151331842 == 0
+	push_object CS151331842
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`<A:visited>`,CS151331842,yes,
+	CS151331843 == 0
+	push_object CS151331843
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,no,yes,
+	pop_current_object
+	def ,`<table.ct07 .ch07 th>`,CS151331843,yes,
+	CS151331844 == 0
+	push_object CS151331844
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`<table.ct07 caption>`,CS151331844,yes,
+	CS151331845 == 0
+	push_object CS151331845
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`right`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`<table.ct07 td>`,CS151331845,yes,
+	CS151331846 == 0
+	push_object CS151331846
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,no,yes,
+	pop_current_object
+	def ,`<table.ct07 th>`,CS151331846,yes,
+	CS151331847 == 0
+	push_object CS151331847
+	def ,`border`,`rectangle`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`<table.ct07>`,CS151331847,yes,
+	CS151331848 == 0
+	push_object CS151331848
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Tahoma#8#Normal#0#0#0`,yes,
+	def ,`padding`,2,yes,
+	def ,`tag`,`ADDRESS`,yes,
+	pop_current_object
+	def ,`address`,CS151331848,yes,
+	CS151331849 == 0
+	push_object CS151331849
+	def ,`font`,`Arial#10#Normal#1#0#0`,yes,
+	def ,`tag`,`CITE`,yes,
+	pop_current_object
+	def ,`citation`,CS151331849,yes,
+	CS1513318410 == 0
+	push_object CS1513318410
+	def ,`font`,`Courier New#10#Normal#0#0#0`,yes,
+	def ,`tag`,`CODE`,yes,
+	pop_current_object
+	def ,`code`,CS1513318410,yes,
+	CS1513318411 == 0
+	push_object CS1513318411
+	def ,`adjust rgb`,`-66 -66 -66`,yes,
+	def ,`bgc`,`#7e7e7e`,yes,
+	def ,`fgc`,`#7e7e7e`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,2,yes,
+	pop_current_object
+	def ,`deco`,CS1513318411,yes,
+	CS1513318412 == 0
+	push_object CS1513318412
+	def ,`font`,`Arial#10#Bold#0#0#0`,yes,
+	def ,`tag`,`EM`,yes,
+	pop_current_object
+	def ,`emphasis`,CS1513318412,yes,
+	CS1513318413 == 0
+	push_object CS1513318413
+	def ,`justify`,`center`,yes,
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`footer`,CS1513318413,yes,
+	CS1513318414 == 0
+	push_object CS1513318414
+	def ,`gradient`,`#2f52d3 #5d9eef 0`,yes,
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`footer_box`,CS1513318414,yes,
+	CS1513318415 == 0
+	push_object CS1513318415
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`form_button`,CS1513318415,yes,
+	CS1513318416 == 0
+	push_object CS1513318416
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`form_input`,CS1513318416,yes,
+	CS1513318417 == 0
+	push_object CS1513318417
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`form_label`,CS1513318417,yes,
+	CS1513318418 == 0
+	push_object CS1513318418
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`form_legend`,CS1513318418,yes,
+	CS1513318419 == 0
+	push_object CS1513318419
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`form_set`,CS1513318419,yes,
+	CS1513318420 == 0
+	push_object CS1513318420
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Times New Roman#28#Bold#1#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`tag`,`H1`,yes,
+	pop_current_object
+	def ,`header`,CS1513318420,yes,
+	CS1513318421 == 0
+	push_object CS1513318421
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`header_box`,CS1513318421,yes,
+	CS1513318422 == 0
+	push_object CS1513318422
+	def ,`font`,`Arial#22#Bold#0#0#0`,yes,
+	def ,`tag`,`H1`,yes,
+	pop_current_object
+	def ,`heading1`,CS1513318422,yes,
+	CS1513318423 == 0
+	push_object CS1513318423
+	def ,`font`,`Arial#20#Normal#0#0#0`,yes,
+	def ,`tag`,`H2`,yes,
+	pop_current_object
+	def ,`heading2`,CS1513318423,yes,
+	CS1513318424 == 0
+	push_object CS1513318424
+	def ,`font`,`Arial#18#Normal#0#0#0`,yes,
+	def ,`tag`,`H3`,yes,
+	pop_current_object
+	def ,`heading3`,CS1513318424,yes,
+	CS1513318425 == 0
+	push_object CS1513318425
+	def ,`fgc`,`#2e2e2e`,yes,
+	def ,`font`,`Tahoma#14#Bold#0#0#0`,yes,
+	def ,`justify`,`right`,yes,
+	def ,`padding`,2,yes,
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`heading4`,CS1513318425,yes,
+	CS1513318426 == 0
+	push_object CS1513318426
+	def ,`font`,`Arial#12#Normal#0#0#0`,yes,
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`heading5`,CS1513318426,yes,
+	CS1513318427 == 0
+	push_object CS1513318427
+	def ,`font`,`Arial#10#Bold#0#0#0`,yes,
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`heading6`,CS1513318427,yes,
+	CS1513318428 == 0
+	push_object CS1513318428
+	def ,`fgc`,`#333300`,yes,
+	def ,`font`,`Tahoma#8#Bold#0#0#0`,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`info`,CS1513318428,yes,
+	CS1513318429 == 0
+	push_object CS1513318429
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`info_box`,CS1513318429,yes,
+	CS1513318430 == 0
+	push_object CS1513318430
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Tahoma#8#Bold#0#0#0`,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`info_tag`,CS1513318430,yes,
+	CS1513318431 == 0
+	push_object CS1513318431
+	def ,`font`,`Arial#10#Normal#0#0#0`,yes,
+	pop_current_object
+	def ,`item`,CS1513318431,yes,
+	CS1513318432 == 0
+	push_object CS1513318432
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`item_box`,CS1513318432,yes,
+	CS1513318433 == 0
+	push_object CS1513318433
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`item_tag`,CS1513318433,yes,
+	CS1513318434 == 0
+	push_object CS1513318434
+	def ,`adjust rgb`,`0 0 0`,yes,
+	def ,`bgc`,`#c0c0c0`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	pop_current_object
+	def ,`logo`,CS1513318434,yes,
+	CS1513318435 == 0
+	push_object CS1513318435
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`logo_box`,CS1513318435,yes,
+	CS1513318436 == 0
+	push_object CS1513318436
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`logo_tag`,CS1513318436,yes,
+	CS1513318437 == 0
+	push_object CS1513318437
+	def ,`fgc`,`#660033`,yes,
+	def ,`font`,`Tahoma#18#Bold#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`navigation`,CS1513318437,yes,
+	CS1513318438 == 0
+	push_object CS1513318438
+	def ,`css`,`text-decoration :underline;`,yes,
+	pop_current_object
+	def ,`navigation:hover`,CS1513318438,yes,
+	CS1513318439 == 0
+	push_object CS1513318439
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`navigation:link`,CS1513318439,yes,
+	CS1513318440 == 0
+	push_object CS1513318440
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`navigation:visited`,CS1513318440,yes,
+	CS1513318441 == 0
+	push_object CS1513318441
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`navigation_box`,CS1513318441,yes,
+	CS1513318442 == 0
+	push_object CS1513318442
+	def ,`justify`,`center`,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`navigation_pin`,CS1513318442,yes,
+	CS1513318443 == 0
+	push_object CS1513318443
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`navigation_tag`,CS1513318443,yes,
+	CS1513318444 == 0
+	push_object CS1513318444
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`news`,CS1513318444,yes,
+	CS1513318445 == 0
+	push_object CS1513318445
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`news_box`,CS1513318445,yes,
+	CS1513318446 == 0
+	push_object CS1513318446
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`news_tag`,CS1513318446,yes,
+	CS1513318447 == 0
+	push_object CS1513318447
+	def ,`bgc`,`#c0c0c0`,yes,
+	pop_current_object
+	def ,`page`,CS1513318447,yes,
+	CS1513318448 == 0
+	push_object CS1513318448
+	def ,`gradient`,`#3300cc #ffffff 0`,yes,
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`page_box`,CS1513318448,yes,
+	CS1513318449 == 0
+	push_object CS1513318449
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`page_tag`,CS1513318449,yes,
+	CS1513318450 == 0
+	push_object CS1513318450
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`panel`,CS1513318450,yes,
+	CS1513318451 == 0
+	push_object CS1513318451
+	def ,`adjust rgb`,`-192 -192 -192`,yes,
+	def ,`bgc`,`#000000`,yes,
+	def ,`fgc`,`#000000`,yes,
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`panel_box`,CS1513318451,yes,
+	CS1513318452 == 0
+	push_object CS1513318452
+	def ,`bdc`,`#ffffff`,yes,
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,2,yes,
+	pop_current_object
+	def ,`photo`,CS1513318452,yes,
+	CS1513318453 == 0
+	push_object CS1513318453
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`photo_box`,CS1513318453,yes,
+	CS1513318454 == 0
+	push_object CS1513318454
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`photo_tag`,CS1513318454,yes,
+	CS1513318455 == 0
+	push_object CS1513318455
+	def ,`font`,`Arial#8#Normal#0#0#0`,yes,
+	def ,`tag`,`SMALL`,yes,
+	pop_current_object
+	def ,`small`,CS1513318455,yes,
+	pop_current_object
+	def ,`styles`,SCS151331840,yes,
+	def ,`win_size`,`maximized`,yes,
+	pop_current_object
+end
+
+;==EndOfFile==
